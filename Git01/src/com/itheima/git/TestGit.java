@@ -14,11 +14,5 @@ public class TestGit {
         System.out.println("this is a git program");
 
     }
-    public void test(){
 
-        int a=10;
-        a+=10;
-        System.out.println(a);
-
-    }
 }
